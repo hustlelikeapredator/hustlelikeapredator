@@ -27,4 +27,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" height="30"/>
 </div>
-### 🏆 Достижения :
+ 🏆 Достижения :
