@@ -29,7 +29,7 @@
 </div>
 
 
- 🏆 Достижения :
+🏆 Достижения :
  <div>
   <img src="https://github-profile-trophy.vercel.app/?username=hustlelikeapredator" alt=""/>  
 </div>
