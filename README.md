@@ -15,3 +15,8 @@
 <div id="heythere" align="center">
 <h1> Профиль на GITHUB </h1>
 </div>
+### :skull: обо мне :
+
+- :smiling_imp: факт обо мне 
+- :japanese_goblin: факт обо мне 
+- :ghost: факт обо мне
