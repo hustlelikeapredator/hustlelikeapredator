@@ -28,3 +28,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30" height="30"/>
 </div>
  🏆 Достижения :
+ <div>
+  <img src="https://github-profile-trophy.vercel.app/?username=hustlelikeapredator" alt=""/>  
+</div>
+ ⌨️ наиболее используемые языки 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustlelikeapredatorAS" alt""/>
+</div>
+ ### 📊 статистика активности
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hustlelikeapredator&theme=react-dracula" alt=""/>
+</div>
