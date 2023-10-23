@@ -35,7 +35,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustlelikeapredatorAS" alt""/>
 </div>
- ### 📊 статистика активности
+ 📊 статистика активности
 
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hustlelikeapredator&theme=react-dracula" alt=""/>
