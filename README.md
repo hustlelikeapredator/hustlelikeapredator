@@ -37,7 +37,7 @@
 
  ⌨️ наиболее используемые языки 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustlelikeapredatorAS" alt""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustlelikeapredator" alt""/>
 </div
 
   
